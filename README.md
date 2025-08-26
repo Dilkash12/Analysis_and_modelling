@@ -1,1 +1,5 @@
 # Analysis_and_modelling
+Identifying the group of consumers that are most likely to leave the company by analyzing some key characteristics and using machine learning and deep learning techniques.
+When a customer (player, subscriber, user, etc.) breaks off contact with a business, it's known as customer churn. After a certain period of time has passed since the client's last interaction with the website or service, online firms usually consider the consumer to be churned.
+A tool that outlines the phases and phases of a customer abandoning your service or product is called a predictive churn model. However, by responding to the indicators as they emerge, you may combat attrition with a dynamic churn model.
+Customer churn, sometimes referred to as customer attrition, is when clients or subscribers discontinue using a business or service. Another name for it is "loss of clients or customers." We will use telecom datasets to anticipate customer churn, which is a similar notion to predicting employee turnover.
